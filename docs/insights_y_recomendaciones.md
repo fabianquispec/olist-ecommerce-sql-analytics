@@ -411,4 +411,4 @@ El análisis de los 5 módulos revela una narrativa coherente y conectada:
 
 ---
 
-*Análisis desarrollado por **Fabian Quispe Castillo** | [github.com/fabianquispec](https://github.com/fabianquispec)*
+*Análisis desarrollado por **Fabian Quispe** | [github.com/fabianquispec](https://github.com/fabianquispec)*
