@@ -35,15 +35,22 @@ El análisis está estructurado en **5 módulos independientes**, cada uno orien
 sql-ecommerce-olist-analysis/
 │
 ├── README.md
-├── assets/
-│   └── modelo_relacional.png
 ├── sql/
 │   └── queries_documentadas.md
 ├── docs/
 │   ├── insights_y_recomendaciones.md
 │   └── diccionario_datos.md
 └── outputs/
-    └── (capturas de resultados clave)
+    │   ├── assets/
+    │   ├── evolucion-ventas.jpeg
+    │   ├── top-10-categorias.jpeg
+    │   ├── revenue-por-segmento.jpeg
+    │   ├── tasa-recompra.jpeg
+    │   ├── segmentacion-sellers.jpeg
+    │   ├── kpis-logisticos.jpeg
+    │   ├── impacto-economico-por-retrasos.jpeg
+    │   └── retrasos-vs-satisfaccion.jpeg
+    └── key_visualizations.md
 ```
 
 ---
@@ -54,14 +61,14 @@ El dataset contiene 9 tablas relacionadas con esquema estrella centrado en `be_o
 
 ```
 be_customers ──────────────────────────────────────────┐
-                                                        │
+                                                       │
 be_order_items ──── be_products ──── be_category ───   │
         │                                           be_orders ──── be_order_payments
 be_order_reviews ───────────────────────────────────   │
-                                                        │
+                                                       │
 be_sellers ─────────────────────────────────────────   │
-                                                        │
-be_geolocation                                          │
+                                                       │
+be_geolocation                                         │
 ```
 
 ---
