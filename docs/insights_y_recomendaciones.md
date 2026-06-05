@@ -12,6 +12,7 @@ Entre septiembre de 2016 y agosto de 2018, Olist experimentó una fuerte expansi
 ---
 
 ### Insight 1 — El marketplace atravesó una fase de crecimiento acelerado
+**Query:** `1.1 Evolución mensual de ventas`
 
 | Período | Revenue |
 |---------|---------|
@@ -32,6 +33,7 @@ El crecimiento del revenue estuvo acompañado por un crecimiento prácticamente 
 ---
 
 ### Insight 2 — La adquisición de clientes fue el principal motor de crecimiento
+**Query:** `1.1 Evolución mensual de ventas`
 
 Durante prácticamente todos los meses: `Total Orders ≈ Unique Customers`, lo que indica que la mayoría de compradores realizó una única compra durante el período.
 
@@ -46,6 +48,7 @@ Implementar programas de retención y recompra para reducir la dependencia de ad
 ---
 
 ### Insight 3 — La demanda presenta una fuerte estacionalidad en Q4
+**Query:** `1.1 Evolución mensual de ventas`
 
 | Mes | Revenue |
 |-----|---------|
@@ -65,6 +68,7 @@ El comportamiento observado es consistente con eventos como Black Friday y campa
 ---
 
 ### Insight 4 — Cinco categorías generan cerca del 40% del revenue total
+**Query:** `1.2 Top 10 categorías por revenue`
 
 | Categoría | % Revenue |
 |-----------|-----------|
@@ -85,6 +89,7 @@ Las categorías líderes combinan alta frecuencia de compra con tamaños de merc
 ---
 
 ### Insight 5 — Las categorías premium generan tickets significativamente superiores
+**Query:** `1.2 Top 10 categorías por revenue`
 
 | Categoría | Ticket Promedio |
 |-----------|----------------|
@@ -99,6 +104,7 @@ Diseñar estrategias diferenciadas para categorías orientadas a volumen y categ
 ---
 
 ### Insight 6 — São Paulo domina la demanda nacional
+**Query:** `1.3 Performance por estado de Brasil`
 
 | Estado | Revenue |
 |--------|---------|
@@ -114,6 +120,7 @@ São Paulo aparece como el principal centro económico del marketplace tanto des
 ---
 
 ### Insight 7 — El comportamiento de compra es más fuerte durante los días laborables
+**Query:** `1.4 Estacionalidad por día de la semana`
 
 | Día | % GMV |
 |-----|-------|
@@ -134,6 +141,7 @@ La segmentación RFM revela una base de clientes relativamente equilibrada, dond
 ---
 
 ### Insight 1 — Los Champions representan el segmento más valioso
+**Query:** `2.8 Revenue por segmento RFM`
 
 | Segmento | Customers | Revenue |
 |----------|-----------|---------|
@@ -147,6 +155,7 @@ Implementar programas de fidelización premium y beneficios exclusivos para prot
 ---
 
 ### Insight 2 — Los clientes At Risk representan una amenaza significativa para el revenue
+**Query:** `2.8 Revenue por segmento RFM`
 
 | Segmento | Customers | Revenue |
 |----------|-----------|---------|
@@ -160,6 +169,7 @@ La recuperación de clientes existentes suele ser más rentable que adquirir nue
 ---
 
 ### Insight 3 — Los clientes leales presentan el mayor potencial de crecimiento
+**Query:** `2.8 Revenue por segmento RFM`
 
 | Segmento | Customers | Revenue |
 |----------|-----------|---------|
@@ -170,6 +180,7 @@ Estos clientes ya muestran comportamientos recurrentes y podrían evolucionar ha
 ---
 
 ### Insight 4 — Los nuevos clientes generan una contribución relevante al negocio
+**Query:** `2.1 Tasa de recompra`
 
 | Segmento | Customers | Revenue |
 |----------|-----------|---------|
@@ -180,13 +191,13 @@ El verdadero desafío consiste en transformar estos compradores únicos en clien
 ---
 
 ### Insight 5 — Existe una fuerte concentración de valor en segmentos de alta calidad
+**Query:** `2.8 Revenue por segmento RFM`
 
 | Segmento | Avg Customer Value |
 |----------|--------------------|
 | Champions | R$ 271.99 |
 | Loyal Customers | R$ 256.46 |
 | New Customers | R$ 136.84 |
-| At Risk | — |
 
 La diferencia de valor promedio entre Champions y New Customers es prácticamente el doble.
 
@@ -200,6 +211,8 @@ El análisis de vendedores revela una distribución altamente concentrada del re
 ---
 
 ### Insight 1 — El revenue de sellers sigue una distribución Pareto clara
+**Query:** `3.3 Análisis de Pareto de sellers`
+
 El top 10% de sellers concentra más del 80% del revenue total del marketplace.
 
 **Business Impact**
@@ -212,6 +225,8 @@ Implementar programas de retención y account management dedicado para los selle
 ---
 
 ### Insight 2 — São Paulo lidera en concentración de sellers y productividad
+**Query:** `3.4 Revenue por estado del seller`
+
 São Paulo concentra la mayor cantidad de sellers activos y el mayor revenue por vendedor, consolidándose como el hub comercial principal del marketplace.
 
 **Strategic Insight**
@@ -220,6 +235,8 @@ La correlación entre concentración de sellers, tiempos de entrega y satisfacci
 ---
 
 ### Insight 3 — Existe un segmento relevante de sellers en riesgo de abandono
+**Query:** `3.7 Riesgo de abandono del seller`
+
 Un grupo de sellers presenta inactividad prolongada desde su última venta, sugiriendo riesgo de abandono de la plataforma.
 
 **Recomendación**
@@ -228,6 +245,7 @@ Implementar alertas de reactivación para sellers con más de 60 días sin venta
 ---
 
 ### Insight 4 — La segmentación de sellers permite estrategias diferenciadas
+**Query:** `3.8 Segmentación de sellers`
 
 | Segmento | Criterio | Estrategia |
 |----------|----------|------------|
@@ -246,6 +264,7 @@ La operación logística de Olist muestra un desempeño sólido a nivel general,
 ---
 
 ### Insight 1 — La operación logística presenta un desempeño general sólido
+**Query:** `4.2 KPIs logísticos generales`
 
 | KPI | Valor |
 |-----|-------|
@@ -260,6 +279,8 @@ El marketplace cumple con los plazos comprometidos en la gran mayoría de los ca
 ---
 
 ### Insight 2 — Los estados del norte y noreste concentran los mayores retrasos
+**Query:** `4.4 Estados con más retrasos`
+
 Los estados más alejados de los centros logísticos del sudeste brasileño presentan consistentemente mayores tiempos de entrega y mayores retrasos respecto al plazo estimado.
 
 **Recomendación**
@@ -268,6 +289,7 @@ Priorizar la expansión de infraestructura logística o partnerships con operado
 ---
 
 ### Insight 3 — Los retrasos afectan proporcionalmente más a pedidos de alto valor
+**Query:** `4.5 Impacto económico de los retrasos`
 
 **Business Impact**
 - Los retrasos afectan proporcionalmente más a pedidos de alto valor
@@ -280,6 +302,7 @@ Priorizar monitoreo y seguimiento para pedidos de alto valor, especialmente dura
 ---
 
 ### Insight 4 — El costo logístico representa una porción relevante del negocio
+**Query:** `4.7 Costo logístico como % del revenue`
 
 | KPI | Valor |
 |-----|-------|
@@ -295,6 +318,7 @@ Monitorear el **Freight as % Revenue** como KPI estratégico para evaluar eficie
 ---
 
 ### Insight 5 — Más de 4,400 clientes experimentaron entregas tardías
+**Query:** `4.8 Clientes afectados por retrasos`
 
 Aproximadamente uno de cada doce clientes recibió al menos una orden fuera del plazo comprometido.
 
@@ -304,6 +328,8 @@ Implementar alertas tempranas y estrategias de comunicación proactiva para pedi
 ---
 
 ### Insight 6 — Los hubs comerciales también son los más eficientes logísticamente
+**Query:** `4.4 Estados con más retrasos`
+
 São Paulo, Minas Gerais y Paraná destacan simultáneamente por altos niveles de revenue, alta concentración de sellers y menores tiempos de entrega — confirmando una correlación entre densidad comercial y eficiencia operativa.
 
 ---
@@ -316,6 +342,7 @@ A pesar de la limitada cobertura de reseñas, los resultados muestran una relaci
 ---
 
 ### Insight 1 — La satisfacción general es alta
+**Query:** `5.2 Rating promedio general`
 
 | KPI | Valor |
 |-----|-------|
@@ -327,6 +354,7 @@ A pesar de la limitada cobertura de reseñas, los resultados muestran una relaci
 ---
 
 ### Insight 2 — Casi el 60% de las reseñas otorgan la máxima calificación
+**Query:** `5.1 Distribución de ratings`
 
 | Review Score | % Reviews |
 |-------------|-----------|
@@ -344,6 +372,7 @@ Investigar en profundidad las causas detrás de las reseñas de una estrella par
 ---
 
 ### Insight 3 — La logística tiene un impacto directo sobre la satisfacción
+**Query:** `5.3 Impacto de retrasos en la satisfacción`
 
 | Delivery Status | Avg Review Score |
 |----------------|-----------------|
@@ -358,6 +387,7 @@ Este resultado valida directamente los hallazgos del Módulo 4: mejor logística
 ---
 
 ### Insight 4 — Los clientes que compran productos más caros tienden a valorar mejor la experiencia
+**Query:** `5.6 Ticket promedio por rating`
 
 | Review Score | Avg Item Price |
 |-------------|---------------|
@@ -372,6 +402,7 @@ Analizar prácticas exitosas de las categorías con mayor valoración para repli
 ---
 
 ### Insight 5 — Existen diferencias importantes entre categorías
+**Query:** `5.5 Categorías mejor valoradas`
 
 | Category | Avg Review Score |
 |----------|-----------------|
@@ -387,6 +418,7 @@ Las categorías relacionadas con herramientas y tecnología muestran los niveles
 ---
 
 ### Insight 6 — São Paulo lidera en satisfacción del cliente
+**Query:** `5.7 Estados con mejor experiencia`
 
 | Estado | Avg Review Score |
 |--------|-----------------|
