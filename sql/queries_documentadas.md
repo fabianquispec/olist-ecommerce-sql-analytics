@@ -894,4 +894,4 @@ GROUP BY reviewer_type;
 ---
 
 *Documentación generada para el repositorio [sql-ecommerce-olist-analysis](https://github.com/fabianquispec/sql-ecommerce-olist-analysis)*  
-*Autor: **Fabian Quispe Castillo** | [github.com/fabianquispec](https://github.com/fabianquispec)*
+*Autor: **Fabian Quispe** | [github.com/fabianquispec](https://github.com/fabianquispec)*
