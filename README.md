@@ -125,14 +125,16 @@ Este análisis permite a Olist y marketplaces similares:
 
 ## 📁 Documentación adicional
 
+- 📄 [Queries](sql/queries_documentadas.md)
 - 📄 [Insights y Recomendaciones Estratégicas](docs/insights_y_recomendaciones.md)
 - 📄 [Diccionario de Datos](docs/diccionario_datos.md)
+
 
 ---
 
 ## 👤 Autor
 
-**Fabian Quispe Castillo**
+**Fabian Quispe**
 Analista de Business Intelligence | Lima, Perú
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fabianquispec-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/fabianquispec)
