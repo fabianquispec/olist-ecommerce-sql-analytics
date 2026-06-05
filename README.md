@@ -38,11 +38,7 @@ sql-ecommerce-olist-analysis/
 ├── assets/
 │   └── modelo_relacional.png
 ├── sql/
-│   ├── 01_commercial_performance.sql
-│   ├── 02_customer_intelligence.sql
-│   ├── 03_seller_analysis.sql
-│   ├── 04_logistics_fulfillment.sql
-│   └── 05_customer_experience.sql
+│   └── queries_documentadas.md
 ├── docs/
 │   ├── insights_y_recomendaciones.md
 │   └── diccionario_datos.md
