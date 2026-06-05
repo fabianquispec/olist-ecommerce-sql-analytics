@@ -17,7 +17,7 @@ outputs/
 │   ├── kpis-logisticos.jpeg
 │   ├── impacto-economico-por-retrasos.jpeg
 │   └── retrasos-vs-satisfaccion.jpeg
-└── README.md
+└── key_visualizations.md
 ```
 
 ---
