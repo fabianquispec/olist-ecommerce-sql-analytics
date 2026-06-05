@@ -1,4 +1,4 @@
-# Análisis SQL — Brazilian E-Commerce (Olist)
+# Brazilian E-Commerce Marketplace Analysis | SQL & Business Intelligence
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-Olist%20Kaggle-20BEFF?style=flat)
