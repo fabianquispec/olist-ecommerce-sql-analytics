@@ -27,7 +27,7 @@ outputs/
 ### 01 — Evolución de Ventas Mensual
 **Módulo:** Commercial Performance Analysis &nbsp;|&nbsp; **Query:** `1.1 Evolución mensual de ventas`
 
-![Evolución de ventas mensual](outputs/assets/evolucion-ventas.jpeg)
+![Evolución de ventas mensual](assets/evolucion-ventas.jpeg)
 
 El revenue mensual pasó de R$23K en los primeros meses a más de R$566K durante 2018, multiplicándose más de ocho veces en el período analizado. El pico de noviembre 2017 (R$576K) es consistente con eventos promocionales tipo Black Friday. La curva revela una fase de crecimiento acelerado hasta mediados de 2018, seguida de una estabilización que sugiere consolidación del marketplace.
 
