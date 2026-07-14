@@ -118,6 +118,16 @@ be_geolocation                                         │
 
 ---
 
+### Conclusión Ejecutiva Global
+
+El análisis de los 5 módulos revela una narrativa coherente y conectada:
+
+1. **El crecimiento fue real pero dependiente de adquisición** — la retención es la próxima palanca
+2. **Los clientes At Risk concentran el mayor riesgo de revenue** — acción inmediata requerida
+3. **El ecosistema de sellers está concentrado** — diversificación geográfica es una oportunidad
+4. **La logística es el principal driver de experiencia** — invertir en fulfillment tiene retorno directo en satisfacción
+5. **São Paulo es el hub que sostiene el marketplace** — replicar su modelo en otras regiones es la estrategia de expansión más evidente
+
 ## 💡 Valor para el negocio
 
 Este análisis permite a Olist y marketplaces similares:
