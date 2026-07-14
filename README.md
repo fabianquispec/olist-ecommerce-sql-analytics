@@ -118,7 +118,7 @@ be_geolocation                                         │
 
 ---
 
-### Conclusión Ejecutiva Global
+## Conclusión Ejecutiva Global
 
 El análisis de los 5 módulos revela una narrativa coherente y conectada:
 
