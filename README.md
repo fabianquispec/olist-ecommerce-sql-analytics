@@ -120,13 +120,7 @@ be_geolocation                                         │
 
 ##   Conclusión Ejecutiva Global
 
-El análisis de los 5 módulos revela una narrativa coherente y conectada:
-
-1. **El crecimiento fue real pero dependiente de adquisición** — la retención es la próxima palanca
-2. **Los clientes At Risk concentran el mayor riesgo de revenue** — acción inmediata requerida
-3. **El ecosistema de sellers está concentrado** — diversificación geográfica es una oportunidad
-4. **La logística es el principal driver de experiencia** — invertir en fulfillment tiene retorno directo en satisfacción
-5. **São Paulo es el hub que sostiene el marketplace** — replicar su modelo en otras regiones es la estrategia de expansión más evidente
+El análisis de los 5 módulos revela una narrativa coherente y conectada, donde el crecimiento fue real pero dependiente de adquisición, lo que convierte a la retención en la próxima gran palanca a trabajar. A esto se suma que los clientes At Risk concentran el mayor riesgo de revenue y requieren acción inmediata, mientras que el ecosistema de sellers muestra una fuerte concentración que abre la puerta a la diversificación geográfica como oportunidad de crecimiento. Por su parte, la logística se confirma como el principal driver de experiencia, por lo que invertir en fulfillment tendría un retorno directo en la satisfacción del cliente, y finalmente São Paulo se consolida como el hub que sostiene el marketplace, lo que hace de replicar su modelo en otras regiones la estrategia de expansión más evidente para el negocio.
 
 ## 💡 Valor para el negocio
 
